@@ -1,0 +1,44 @@
+body {
+	min-width: 960px;
+}
+
+body div.bs-docs-header {
+	width: 100%;
+	height: 500px;
+	display: table;
+}
+
+div.red, div.blue, div.green {
+	display: table-cell;
+}
+
+div.red {
+	background-color: red;
+}
+
+div.blue {
+	background-color: blue;
+}
+
+div.green {
+	background-color: green;
+}
+
+section div.section-contents {
+	max-width: 960px;
+	margin-top: 20px;
+	column-count: 3;
+	column-gap: 20px;
+}
+
+dl {
+	margin-top: auto;
+}
+
+dt {
+	font-size: 18px;
+	color: #98c748;
+}
+#wrap{
+	min-width: 960px;
+}

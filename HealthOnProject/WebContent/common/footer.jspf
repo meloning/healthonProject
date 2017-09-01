@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<style>
+footer{
+	width:inherit;
+	height:70px;
+	margin-top:5px;
+	margin:0 auto;
+	background-color:#f4f4f4;
+}
+#ft1{
+	padding:25px;
+	color:black;
+	width:inherit;
+	margin: 0 auto;
+	text-size:10px;
+	text-align:center;	
+}
+</style>
+<footer>
+<article id="ft1">
+© 2023 Wix.com을 통해 제작된 본 홈페이지의 모든 권리는 OOOO(사업체명)에 귀속됩니다.
+</article>
+</footer>
